@@ -1,0 +1,9 @@
+name: TBClanTag
+version: '1.0.0'
+main: de.mecrytv.tBClanTag.TBClanTag
+api-version: '1.21'
+authors: [ MecryTv ]
+description: Clan Tag Plugin for TeamBash
+commands:
+  tag:
+    description: Clan Tag Command
